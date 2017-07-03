@@ -36,4 +36,3 @@ phpunit.phar
 
 backend/runtime
 frontend/runtime
-.gitignore
