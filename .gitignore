@@ -35,4 +35,8 @@ phpunit.phar
 /.vagrant
 
 backend/runtime
+<<<<<<< HEAD
 frontend/runtime
+=======
+frontend/runtime
+>>>>>>> 22f9a19b300c00517003d0f58aae831c50126747
